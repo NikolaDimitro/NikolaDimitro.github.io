@@ -1,6 +1,4 @@
-[ironman.html](https://github.com/user-attachments/files/27099280/ironman.html)
-# NikolaDimitro.github.io<!DOCTYPE html>
-<html lang="en">
+<html lang="en">  
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
